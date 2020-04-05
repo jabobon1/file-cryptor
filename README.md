@@ -24,7 +24,9 @@ all possible args:
 
 python3 cryptor.py -m create -priv private_key.pem -pub public_key.pem
 
-python3 cryptor.py -m create        # For default paths
+Will chooses default paths:
+
+python3 cryptor.py -m create       
 
 # Encrypt file
 
